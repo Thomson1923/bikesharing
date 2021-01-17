@@ -15,7 +15,7 @@
 ### Checkout Times by Gender – We saw very limited variation in the amount of time that bikes were checked out by men versus women.
 ### Distribution of Trips – As expected, trip initiation clustered around morning and evening commuting times.
 ### Distribution of Trips by Gender – As with the number of overall trips, gender differences were not see in the pattern of daily usage.
-## 
+### Usertypes - Riders registered as subscribers should account for the majority of rides.
 
 # Summary
-## We feel that this concept could work. Our follow-up analysis will include a quartile analysis of subscriber usage and understanding the relative importance of trips outside densely populated areas.
+## We feel that the Des Moines Bike Sharing program could work. Our follow-up analysis will include a quartile analysis of subscriber usage and understanding the relative importance of trips outside densely populated areas.
